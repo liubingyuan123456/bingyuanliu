@@ -32,7 +32,7 @@ ul, ol {
 
 header {
   background-color: #f8f9fa;
-  padding: 1.5em;
+  padding: 0em;
   text-align: center;
 }
 
@@ -126,7 +126,7 @@ footer {
     font-size: 1em;
   }
    nav {
-    padding: 1em 0; /* Reduce top and bottom padding */
+    padding: 0em 0; /* Reduce top and bottom padding */
     flex-direction: column; /* Stack items vertically */
     align-items: center; /* Center items horizontally */
   }

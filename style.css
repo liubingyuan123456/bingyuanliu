@@ -129,10 +129,9 @@ footer {
     padding: 0em 0; /* Reduce top and bottom padding */
     flex-direction: row; /* Stack items horizontally */
     align-items: center; /* Center items horizontally */
-    justify-content: space-between;
   }
 
   nav li {
-    margin: 0.5em 0; /* Add spacing between navigation items */
+    margin: 0.5em 0.5em; /* Add spacing between navigation items */
   }
 }

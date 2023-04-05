@@ -127,7 +127,7 @@ footer {
   }
    nav {
     padding: 0em 0; /* Reduce top and bottom padding */
-    flex-direction: column; /* Stack items vertically */
+    flex-direction: row; /* Stack items horizontally */
     align-items: center; /* Center items horizontally */
   }
 

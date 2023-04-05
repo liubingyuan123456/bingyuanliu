@@ -132,6 +132,6 @@ footer {
   }
 
   nav li {
-    margin: 0.5em 0; /* Add spacing between navigation items */
+    margin: 0.5em 0.5em; /* Add spacing between navigation items */
   }
 }

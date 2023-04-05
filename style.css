@@ -125,4 +125,13 @@ footer {
   main p {
     font-size: 1em;
   }
+   nav {
+    padding: 1em 0; /* Reduce top and bottom padding */
+    flex-direction: column; /* Stack items vertically */
+    align-items: center; /* Center items horizontally */
+  }
+
+  nav li {
+    margin: 0.5em 0; /* Add spacing between navigation items */
+  }
 }
